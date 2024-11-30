@@ -9,6 +9,7 @@
 *.user
 *.userosscache
 *.sln.docstates
+FEA Solver.cpp
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
